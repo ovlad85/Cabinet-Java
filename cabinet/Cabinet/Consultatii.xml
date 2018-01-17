@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lista>
+    <consultatie zi="Luni">
+        <numele>Pop Andrei</numele>
+        <diagnostic>Nevralgie</diagnostic>
+        <recomandare>Algocalmin 20 de tabele,o tableta de 2 ori pe zi.</recomandare>
+    </consultatie>
+    <consultatie zi="Marti">
+        <numele>Crisan Paul</numele>
+        <diagnostic>Lombargie</diagnostic>
+        <recomandare>Radiografie Ortopedie,Arcocxia 10 zile o tableta pe zi.</recomandare>  
+    </consultatie>
+<consultatie zi="Luni">
+        <numele>Rus Flavia</numele>
+        <diagnostic>Dureri Abdominale</diagnostic>
+        <recomandare>Ecografie Abdominala ,consult medic specialist</recomandare>
+    </consultatie>
+</lista>

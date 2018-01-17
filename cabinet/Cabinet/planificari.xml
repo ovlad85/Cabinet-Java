@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lista>
+    <pacient zi="Luni">
+        <ora>08-09</ora>
+        <nume>Pop Andrei</nume>
+        <varsta>35.0</varsta>
+</pacient>
+<pacient zi="Marti">
+        <ora>08-09</ora>
+        <nume>Crisan Paul</nume>
+        <varsta>29</varsta>
+</pacient>
+<pacient zi="Miercuri">
+        <ora>08-09</ora>
+        <nume>Luca Andreea</nume>
+        <varsta>35</varsta>
+    </pacient>
+<pacient zi="Joi">
+        <ora>08-09</ora>
+        <nume>Ionescu Vlad</nume>
+        <varsta>28</varsta>
+</pacient>
+
+<pacient zi="Luni">
+        <ora>09-10</ora>
+        <nume>Rus Flavia</nume>
+        <varsta>25.0</varsta>
+    </pacient>
+
+
+</lista>
